@@ -3,7 +3,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background-color:#6abadeba;
+    background-color:#f3f5efba;
     font-family: 'Arial';
 }
 .login{
@@ -12,13 +12,13 @@ body
         margin: auto;
         margin: 20 0 0 450px;
         padding: 80px;
-        background: #23463f;
+        background: #640557;
         border-radius: 15px ;
 
 }
 h2{
     text-align: center;
-    color: #277582;
+    color: #fafbf4;
     padding: 20px;
 }
 label{
@@ -46,7 +46,7 @@ label{
     border: none;
     border-radius: 17px;
     padding-left: 7px;
-    color: yellow;
+    color: black;
 
 
 }
@@ -56,5 +56,5 @@ span{
 }
 a{
     float: left;
-    background-color: blueviolet;
+    background-color: rgb(174, 169, 179);
 }
